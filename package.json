@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Ano: 2017 <br/>\r Linguagem: p5.js <br/>",
   "main": "index.js",
+  "engines": {
+    "node": "16.14.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/iagoGB/recurso-interativo-mercurio.git"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
