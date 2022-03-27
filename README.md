@@ -1,13 +1,13 @@
-# Merc˙rio
+# Merc√∫rio
 
 Ano: 2017 <br/>
 Linguagem: p5.js <br/>
 
 
 <p>
-Surgiu com a necessidade de informar aos recÈm-ingressos no curso de Sistemas e MÌdias Digitais o que era produzido no nosso bloco.
+Surgiu com a necessidade de informar aos rec√©m-ingressos no curso de Sistemas e M√≠dias Digitais o que era produzido no nosso bloco.
 De maneira mais informal e divertida, busca-se mostrar os projetos, grupos de estudos e artigos produzidos pelos alunos e professores.
-AtravÈs de um quiz, o aluno que ainda est· indeciso em qual trilha seguir, pode realizar um teste para sugerirmos aquilo que possivelmente ir· agrad·-lo.
+Atrav√©s de um quiz, o aluno que ainda est√° indeciso em qual trilha seguir, pode realizar um teste para sugerirmos aquilo que possivelmente ir√° agrad√°-lo.
 </p>
 
-link da aplicaÁ„o: https://mercuriopixie.000webhostapp.com/
+link da aplica√ß√£o: https://mercurio-smd.herokuapp.com/
